@@ -1,3 +1,3 @@
-module test_grpc_proto
+module github.com/xdevspo/go-test_grpc_proto
 
-go 1.23
+go 1.23.4
